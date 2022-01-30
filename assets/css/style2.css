@@ -1,4 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    display: grid;
+    place-items: center;
+}
+
 .Tunbon{
-    font-size: 100px;
+    font-size: 50px;
     text-align: center;
+}
+
+.zzzeee{
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    margin-top: 25px;
 }
